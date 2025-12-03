@@ -1,10 +1,10 @@
 ---
 title: "О тестировщиках"
-date: 2024-07-26
+date: 2024-07-24
 draft: false
 author: "Kirill Ivliev"
 categories: ["Общее"]
-tags: ["introduction", "блог"]
+tags: ["qa"]
 description: "Знакомство с профессией"
 image: "/images/post-image.jpg" # опционально
 ---
